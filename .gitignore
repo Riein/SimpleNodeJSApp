@@ -4,7 +4,7 @@ ehthumbs.db
 
 # Dependencies
 /nodetest1/node_modules
-
+/nodetest1/data
 
 # Folder config file
 Desktop.ini
